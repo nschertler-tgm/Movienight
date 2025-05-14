@@ -14,21 +14,21 @@
 
 - [ ] ### Stangenline hdm
   
-  - [ ] Roter Stangenpark
+  - Roter Stangenpark
 
 - [ ] ### HDM Bus line
   
-  - [ ] <img src="./img/Busline%20HDM_2.jpeg" title="" alt="alt text" width="225">
+  - <img src="./img/Busline%20HDM_2.jpeg" title="" alt="alt text" width="226">
   
-  - [ ] <img src="./img/Busline%20HMD_1.jpeg" title="" alt="alt text" width="221">
+  - <img src="./img/Busline%20HMD_1.jpeg" title="" alt="alt text" width="227">
 
 - [ ] ### Aufgang Armjump HDM
   
   - <img src="./img/HDM%20Armjump%20Aufgang.jpeg" title="" alt="alt text" width="263">
+
+- [ ] ### Schaukelpre
   
-  ### Schaukelpre
-  
-  - [ ] <img title="" src="./img/Schaukelpre.jpeg" alt="alt text" width="269">
+  - <img src="./img/Schaukelpre.jpeg" title="" alt="alt text" width="265">
 
 - [ ] ### Lache spittelau
   
@@ -36,17 +36,14 @@
 
 - [ ] ### Evtl sidepre spittelau
   
-  - [ ] <img src="./img/Sidepre%20Spittelau.jpeg" title="" alt="alt text" width="271">
+  - <img src="./img/Sidepre%20Spittelau.jpeg" title="" alt="alt text" width="273">
 
 - [ ] ### TU Roofgap
   
-  - [ ] <img src="./img/TU%20Roofgap.jpeg" title="" alt="alt text" width="334">
+  - <img src="./img/TU%20Roofgap.jpeg" title="" alt="alt text" width="269">
 
 - [ ] ### Manpower
 
-<<<<<<< HEAD
 - [ ] ### Stadt Wien Double Kong
   
-  - [ ] <img src="./img/Stadt%20Wien%20Double%20Kong.jpeg" title="" alt="alt text" width="315">
-=======
->>>>>>> a6f74e6915155cdefba14aac50879374fa10271e
+  - <img src="./img/Stadt%20Wien%20Double%20Kong.jpeg" title="" alt="alt text" width="275">
